@@ -28,8 +28,8 @@ import (
 	"github.com/armon/go-radix"
 	set "github.com/deckarep/golang-set"
 	"github.com/grafov/bcast"
-	"github.com/osrg/gobgp/packet/bgp"
-	"github.com/osrg/gobgp/packet/rtr"
+	"github.com/osrg/gobgp/pkg/packet/bgp"
+	"github.com/osrg/gobgp/pkg/packet/rtr"
 	log "github.com/sirupsen/logrus"
 )
 
