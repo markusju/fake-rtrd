@@ -21,8 +21,8 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/osrg/gobgp/packet/bgp"
-	"github.com/osrg/gobgp/packet/rtr"
+	"github.com/osrg/gobgp/pkg/packet/bgp"
+	"github.com/osrg/gobgp/pkg/packet/rtr"
 	log "github.com/sirupsen/logrus"
 )
 
